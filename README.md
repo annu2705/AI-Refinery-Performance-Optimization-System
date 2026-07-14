@@ -268,27 +268,7 @@ The dashboard runs at `http://localhost:8501` by default.
 
 ---
 
-## Timeline (4-Week Sprint)
 
-| Week | Task |
-|---|---|
-| Week 1 | Finalize project spec, assign responsibilities, create repository, begin documentation and dashboard skeleton |
-| Week 2 | Develop Throughput, Energy, and Product Yield ML pipelines in parallel |
-| Week 3 | Complete hyperparameter tuning, explainability (SHAP), save models, integrate into dashboard |
-| Week 4 | Testing, documentation, GitHub finalization, presentation, and project review |
-
----
-
-## Success Criteria
-
-- [ ] All four ML models are trained and evaluated
-- [ ] Each model includes explainability (SHAP or feature importance)
-- [ ] The Streamlit dashboard integrates all models and displays predictions
-- [ ] The repository is organized and reproducible
-- [ ] The report, README, and presentation are complete and consistent
-- [ ] The system demonstrates end-to-end refinery performance analysis from data input to decision support
-
----
 
 ## Future Improvements
 
