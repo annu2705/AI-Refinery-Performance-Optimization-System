@@ -248,7 +248,7 @@ The dashboard runs at `http://localhost:8501` by default.
 | Ayush | ML Engineer | Energy Consumption model, Product Yield model, SHAP explainability, final model export |
 | Yash | Software Engineer | Dashboard, UI design, charts, navigation, alerts, integration support |
 | Neha | Documentation Lead | Literature review, project report, architecture diagrams, flowcharts, PPT content, references |
-| Annu | GitHub & QA | Repository management, README, testing, screenshots, bug reports, deployment |
+| Annu | GitHub & QA Lead| Repository management, README, testing, screenshots, bug reports, deployment |
 
 ---
 
